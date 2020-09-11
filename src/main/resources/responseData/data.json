@@ -1,0 +1,45 @@
+[
+  {
+    "name": "festival1",
+    "bands":[
+      {
+        "name" : "band1",
+        "recordLabel" : "recordLabel1"
+      },
+      {
+        "name" : "band2",
+        "recordLabel" : "recordLabel2"
+      },
+      {
+        "name" : "band5",
+        "recordLabel" : "recordLabel1"
+      },
+      {
+        "name" : "band4",
+        "recordLabel" : "recordLabel4"
+      },{
+        "name" : "band3",
+        "recordLabel" : "recordLabel3"
+      }
+    ]
+  },
+  {
+    "name": "festival3",
+    "bands":[
+      {
+        "name" : "band1",
+        "recordLabel" : "recordLabel1"
+      },
+      {
+        "name" : "band2",
+        "recordLabel" : "recordLabel1"
+      }]},
+  {
+    "name": "festival2",
+    "bands":[
+      {
+        "name" : "band1",
+        "recordLabel" : "recordLabel1"
+      }]
+  }
+]
